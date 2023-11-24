@@ -30,6 +30,7 @@
         <input name="unit" type="number" />
         <input type="submit" name="submit" value="submit" />
     </form>
+    
     <?php
     if (isset($_POST['submit'])) {
         calculateBill();
