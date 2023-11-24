@@ -24,7 +24,6 @@
         }
         echo "your unites are " . $units . " and Total Bill is " . $totalbill;
     }
-
     ?>
 
     <form method="post" action="">
